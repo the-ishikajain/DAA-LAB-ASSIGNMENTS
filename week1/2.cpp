@@ -22,7 +22,7 @@ int main()
 		{
 		if(a[mid]==k)
 		{
-			cout<<"PRESENT "<<i;
+			cout<<"PRESENT "<<i<<endl;
 			p=1;
 			break;
 		}
@@ -40,7 +40,7 @@ int main()
 	}
 	if(p==0)
 	{
-		cout<<"NOT PRESENT "<<i-1;
+		cout<<"NOT PRESENT "<<i-1<<endl;
 	}
 	}
 }

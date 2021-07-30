@@ -29,3 +29,5 @@ WEEK1 : Q1_PROBLEM STATEMENT
 ![week2_Q2_output](https://user-images.githubusercontent.com/75484706/127642454-e8de13b2-05e6-4750-8669-a00dd652773c.jpg)
 
         Q3_PROBLEM STATEMENT
+![week2_Q3_PROBLEM_STATEMENT](https://user-images.githubusercontent.com/75484706/127642536-bb163c7e-4d63-4e44-929c-a307d135eff8.jpg)
+        Q3_OUTPUT

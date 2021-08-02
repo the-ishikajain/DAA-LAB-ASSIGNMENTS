@@ -34,4 +34,6 @@
 ![week2_Q3_output](https://user-images.githubusercontent.com/75484706/127648470-f24cc9f1-163f-4104-8d18-3912af9256d9.jpg)
 
 ## WEEK3 : Q1_PROBLEM STATEMENT
+![WEEK3_Q1_PROBLEM_STATEMENT](https://user-images.githubusercontent.com/75484706/127819813-a698cf20-4a16-4f85-9ffe-d33183410273.jpg)
+           Q1_OUTPUT
         

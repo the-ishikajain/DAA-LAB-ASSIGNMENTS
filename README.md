@@ -49,5 +49,26 @@
            Q3_OUTPUT
 ![week3_Q3_output](https://user-images.githubusercontent.com/75484706/128216437-a1b5ba2f-0c9f-4d38-823e-26f611eed4dc.jpg)
 
+
+## WEEK4 : Q1_PROBLEM STATEMENT
+
+
+
+
+## WEEK5 : Q1_PROBLEM STATEMENT
+![week5_Q1_PROBLEM_STATEMENT](https://user-images.githubusercontent.com/75484706/130213445-14a722f6-e417-4e5d-a84d-aa5b09f04806.jpg)
+           Q1_OUTPUT
+![week5_Q1_output](https://user-images.githubusercontent.com/75484706/130213481-2777b585-fcf7-49b1-a34f-d83c9d1312fa.jpg)
+
+            Q2_PROBLEM STATEMENT
+![week5_Q2_PROBLEM_STATEMENT](https://user-images.githubusercontent.com/75484706/130213499-a951fa3f-a219-4602-931e-53ebc55b936e.jpg)
+            Q2_OUTPUT
+![week5_Q2_output](https://user-images.githubusercontent.com/75484706/130213558-cb94baac-ad0d-4f34-b34a-866959d25c02.jpg)
+
+            Q3_PROBLEM STATEMENT
+![week5_Q3_PROBLEM_STATEMENT](https://user-images.githubusercontent.com/75484706/130213585-ab6c7be2-373c-474a-a4ba-ce48478f7bbb.jpg)
+            Q3_OUTPUT
+![week5_Q3_output](https://user-images.githubusercontent.com/75484706/130213603-0b995d9d-e513-48f0-bd58-b753c927f487.jpg)
+
           
         
